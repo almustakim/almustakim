@@ -24,9 +24,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=almustakim&show_icons=true&locale=en&layout=compact" alt="almustakim" width="46% />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=almustakim&show_icons=true&locale=en&layout=compact&theme=dark" alt="almustakim" width="46% />
 </p>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=almustakim&theme=defualt&show_icons=true" alt="almustakim"  width="46%"/>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=almustakim&show_icons=true&theme=radical" alt="almustakim"  width="46%"/>
 </p>
 
 <!--
@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 
 
 
